@@ -2,7 +2,7 @@
 
 ## GitHub Pagesで公開する手順
 1. GitHubで新しいリポジトリを作成（例：`hop-switch-lp`）
-2. このフォルダの中身（`index.html` と `images/`）をそのままアップロード
+2. このフォルダの中身（`index.html` ）をそのままアップロード
 3. リポジトリの Settings → Pages → Branch を `main` / `/(root)` にして Save
 4. 数分後に `https://<アカウント名>.github.io/hop-switch-lp/` で公開されます
 
